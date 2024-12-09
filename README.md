@@ -35,19 +35,17 @@ To understand how dietary and metabolic health markers correlate with body compo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Metabolic-Health-Analysis.git
+   git clone https://github.com/luiscarlosmarrufo/Metabolic-Health-Analysis.git
    ```
 
 2. **Install Dependencies**: Ensure you have Python installed and run:
    ```bash
    pip install -r requirements.txt
    ```
-   *(Include a `requirements.txt` file listing necessary libraries like pandas, scikit-learn, etc.)*
-Here’s the markdown for point 3:
 
 3. **Run the Notebook**:
    Open `Metabolic_Health_Analysis.ipynb` in Jupyter Notebook or JupyterLab to explore the analysis.
-   
+
 ## Results Summary
 
 The study highlights the critical role of dietary and metabolic factors in influencing body composition. The regression models achieved high adjusted R² values, indicating strong predictive power:
